@@ -109,3 +109,29 @@ p {
 .cart:hover {
     background-color: hsl(158, 36%, 20%);
 }
+
+
+/* MOBILE CONTAINER */
+@media screen and (max-width: 1000px) {
+    .grid-container {
+        margin-top: 2rem;
+    }
+    .grid-container, .grid-card {
+        display: flex;
+        flex-direction: column;
+        max-width: 300px;
+        gap: 0;
+        border-top-right-radius: 0;
+        border-bottom-left-radius: 0.5rem;
+    }
+
+    img {
+        height: 200px;
+        object-position: center;
+        border-top-left-radius: 0.5rem;
+        border-top-right-radius: 0.5rem;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+}
+/* MOBILE CONTAINER */
