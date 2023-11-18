@@ -10,7 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 
@@ -27,6 +26,8 @@ Users should be able to:
 
 ![](https://github.com/FNH99/product-preview-card-component-main/blob/master/images/screenshot-fullscreen.png)
 
+![](https://github.com/FNH99/product-preview-card-component-main/blob/master/images/screenshot-mobile.png)
+
 ### Links
 
 - Live Site URL: [product-preview](https://product-preview-card-component-main-rosy-one.vercel.app)
@@ -38,13 +39,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-
-
-### Continued development
-
-Need to fix the product image to not be squished when in a smaller width window. Mobile version pending.
-
-![](https://github.com/FNH99/product-preview-card-component-main/blob/master/images/screenshot-squished.png)
 
 
 ## Author
